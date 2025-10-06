@@ -26,7 +26,7 @@
 ### Performance Metrics
 
 | Metric | Score |
-| :-- | :-- | :-- |
+| :-- | :-- |
 | **Top-1 Accuracy** | **81.45%**  |
 | **Top-5 Accuracy** | **95.70%**  |
 | Target Accuracy | 73.00% |
